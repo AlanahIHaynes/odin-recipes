@@ -9,4 +9,5 @@ Reference, Odin Project Git Basics for help
 to add the file you created to git, do git add "filename"
 check git status
 to commit do git commit -m "Edited README and index.txt"
+to commit all modified files do git commit -am "Edited all these files"
 to push, do git push origin main
